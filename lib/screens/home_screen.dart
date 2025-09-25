@@ -74,7 +74,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   ),
                   onPressed: () =>
-                      _launchUrl('https://github.com/zylann177/My-Portfolio'),
+                      _launchUrl('https://github.com/zyl-ann/My-Portfolio'),
                   icon: const Icon(Icons.code),
                   label: const Text('GitHub'),
                 ),
@@ -223,3 +223,4 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+
