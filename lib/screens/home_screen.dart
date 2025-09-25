@@ -73,7 +73,8 @@ class _HomeScreenState extends State<HomeScreen> {
                       vertical: 12,
                     ),
                   ),
-                  onPressed: () => _launchUrl('https://github.com/'),
+                  onPressed: () =>
+                      _launchUrl('https://github.com/zylann177/My-Portfolio'),
                   icon: const Icon(Icons.code),
                   label: const Text('GitHub'),
                 ),
